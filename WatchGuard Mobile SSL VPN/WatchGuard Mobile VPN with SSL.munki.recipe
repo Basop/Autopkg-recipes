@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of WatchGuard Mobile VPN with SSL and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.b45op.munki.WatchGuardMobileVPNwithSSL</string>
+	<string>com.github.basop.munki.WatchGuardMobileVPNwithSSL</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
