@@ -40,7 +40,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.b45op.download.WatchGuardMobileVPNwithSSL</string>
+	<string>com.github.basop.download.WatchGuardMobileVPNwithSSL</string>
 	<key>Process</key>
 	<array>
 		<dict>
